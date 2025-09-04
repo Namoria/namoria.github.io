@@ -1,5 +1,4 @@
-# Home — Flathub Apps
+Welcome to my Github Page.
 
-Welcome — curated Flathub apps and notes. See the full list:
-
-- [Flathub apps (full list)](flatpaks.md)
+Content:
+- [A List of Flatpaks I like](flatpaks.md)
