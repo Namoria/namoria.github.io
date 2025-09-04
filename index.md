@@ -2,4 +2,4 @@
 
 Welcome — curated Flathub apps and notes. See the full list:
 
-- [Flathub apps (full list)](flatpak.md)
+- [Flathub apps (full list)](flatpaks.md)
